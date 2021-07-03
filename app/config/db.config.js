@@ -1,4 +1,4 @@
 module.exports = {
-    url: "mongodb://localhost:27017/sc3002519_db"
+    url: "mongodb+srv://SC3002519:senha@cluster0.gt538.mongodb.net/SC3002519_bd?retryWrites=true&w=majority"
 }
 
